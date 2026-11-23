@@ -1,7 +1,7 @@
 
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Juan Armando Castillo Rodríguez - Desarrollador de Software | Analista de Datos" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0052D4,50:00A8FF,100:00E5D4&height=240&text=Juan%20Armando%20Castillo%20Rodr%C3%ADguez&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Desarrollador%20de%20Software%20%7C%20Analista%20de%20Datos&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Banner Juan Armando Castillo Rodríguez" />
 </p>
 
 <!-- ===================== TEXTO ANIMADO ===================== -->
@@ -80,4 +80,3 @@ Soy una persona apasionada por la tecnología, la programación y el análisis d
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5D4,50:00A8FF,100:0052D4&height=120&section=footer" width="100%" alt="Footer" />
 </p>
-
