@@ -1,80 +1,83 @@
 
-<h1 data-importer="text" align="center">Juan Armando Castillo Rodríguez</h1>
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Juan%20Armando%20Castillo%20Rodr%C3%ADguez&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20en%20Sistemas%20%7C%20Futuro%20Analista%20de%20Datos&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner Juan Armando Castillo Rodríguez" />
+</p>
 
-###
-
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/juan-armando30" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<!-- ===================== TEXTO ANIMADO ===================== -->
+<p align="center">
+  <a href="https://github.com/JuanArmando30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2C9FD9&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Apasionado+por+los+datos;%F0%9F%92%BB+Desarrollo+de+software;%E2%9A%BD+Tecnolog%C3%ADa+%2B+Deporte;%F0%9F%9A%80+Aprender%2C+construir%2C+mejorar" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-###
-
-<h3 data-importer="text" align="center">👩‍💻  Acerca de mi</h3>
-
-###
-
-<p data-importer="text" align="left">Soy una persona apasionada por la tecnología, la programación y el análisis de datos. Me gusta aprender constantemente, explorar nuevas herramientas y desarrollar proyectos que transformen ideas en soluciones prácticas. Me interesa especialmente la conexión entre tecnología y deporte, así como las posibilidades que ofrecen los datos para comprender y mejorar distintos procesos.<br><br>⚽ Fan del deporte y la tecnología.<br>💻 Interesado en programación y desarrollo de software.<br>📊 Apasionado por los datos y su análisis.<br>🎮 Amante de los videojuegos y la innovación.<br>🚀 Siempre buscando aprender, experimentar y crear cosas nuevas.<br><br>Mi filosofía: aprender, construir, mejorar y nunca dejar de explorar.</p>
-
-###
-
-<h3 data-importer="text" align="center">🛠 Lenguajes y herramientas</h3>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="center"></h2>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/JuanArmando30/JuanArmando30/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Juan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Juan&count=5&unique=false" alt="Spotify recently played"  />
+<!-- ===================== REDES ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-armando30" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://github.com/JuanArmando30" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JuanArmando30&label=Visitas&color=0e75b6&style=for-the-badge" height="28" alt="Contador de visitas" />
+</p>
 
-###
+---
+
+<h3 align="center">👨‍💻 Acerca de mí</h3>
+
+<p align="left">
+Soy una persona apasionada por la tecnología, la programación y el análisis de datos. Me gusta aprender constantemente, explorar nuevas herramientas y desarrollar proyectos que transformen ideas en soluciones prácticas. Me interesa especialmente la conexión entre tecnología y deporte, así como las posibilidades que ofrecen los datos para comprender y mejorar distintos procesos.
+</p>
+
+- ⚽ Fan del deporte y la tecnología.
+- 💻 Interesado en programación y desarrollo de software.
+- 📊 Apasionado por los datos y su análisis.
+- 🎮 Amante de los videojuegos y la innovación.
+- 🚀 Siempre buscando aprender, experimentar y crear cosas nuevas.
+
+> **Mi filosofía:** aprender, construir, mejorar y nunca dejar de explorar.
+
+---
+
+<h3 align="center">🛠 Lenguajes y herramientas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,java,py&perline=8" alt="Lenguajes" />
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,postman,arduino,vscode&perline=7" height="48" alt="Herramientas" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="48" alt="Google" />
+</p>
+
+---
+
+<h3 align="center">📈 Estadísticas</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanArmando30&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanArmando30&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165" alt="Lenguajes más usados" />
+</p>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+<!-- Lo genera el workflow .github/workflows/snake.yml en la rama "output" -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanArmando30/JuanArmando30/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanArmando30/JuanArmando30/output/github-snake.svg" />
+    <img alt="Snake comiendo mis contribuciones" src="https://raw.githubusercontent.com/JuanArmando30/JuanArmando30/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer" />
+</p>
+
