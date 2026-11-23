@@ -1,13 +1,13 @@
 
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Juan%20Armando%20Castillo%20Rodr%C3%ADguez&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20en%20Sistemas%20%7C%20Futuro%20Analista%20de%20Datos&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner Juan Armando Castillo Rodríguez" />
+  <img src="./assets/banner.svg" width="100%" alt="Juan Armando Castillo Rodríguez - Desarrollador de Software | Analista de Datos" />
 </p>
 
 <!-- ===================== TEXTO ANIMADO ===================== -->
 <p align="center">
   <a href="https://github.com/JuanArmando30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2C9FD9&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Apasionado+por+los+datos;%F0%9F%92%BB+Desarrollo+de+software;%E2%9A%BD+Tecnolog%C3%ADa+%2B+Deporte;%F0%9F%9A%80+Aprender%2C+construir%2C+mejorar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Apasionado+por+los+datos;Desarrollo+de+software;Transformando+datos+en+decisiones;Aprender%2C+construir%2C+mejorar" alt="Typing SVG" />
   </a>
 </p>
 
@@ -78,6 +78,6 @@ Soy una persona apasionada por la tecnología, la programación y el análisis d
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5D4,50:00A8FF,100:0052D4&height=120&section=footer" width="100%" alt="Footer" />
 </p>
 
